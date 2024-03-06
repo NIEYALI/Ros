@@ -1,0 +1,6 @@
+# request
+uint16 x
+uint16 y
+---
+# response
+uint16 distance

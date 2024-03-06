@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/philchen/ros_basic/devel/.private/ros_define_data/setup.sh

@@ -1,0 +1,10 @@
+make[2]: *** No rule to make target '/home/philchen/ros_basic/src/ros_define_data/src/server.cpp', needed by 'CMakeFiles/server.dir/src/server.cpp.o'.  Stop.
+make[1]: *** [CMakeFiles/server.dir/all] Error 2
+make[2]: *** No rule to make target '/home/philchen/ros_basic/src/ros_define_data/src/client.cpp', needed by 'CMakeFiles/client.dir/src/client.cpp.o'.  Stop.
+make[1]: *** Waiting for unfinished jobs....
+make[1]: *** [CMakeFiles/client.dir/all] Error 2
+make[2]: *** No rule to make target '/home/philchen/ros_basic/src/ros_define_data/src/publisher.cpp', needed by 'CMakeFiles/publisher.dir/src/publisher.cpp.o'.  Stop.
+make[1]: *** [CMakeFiles/publisher.dir/all] Error 2
+make[2]: *** No rule to make target '/home/philchen/ros_basic/src/ros_define_data/src/subscriber.cpp', needed by 'CMakeFiles/subscriber.dir/src/subscriber.cpp.o'.  Stop.
+make[1]: *** [CMakeFiles/subscriber.dir/all] Error 2
+make: *** [all] Error 2

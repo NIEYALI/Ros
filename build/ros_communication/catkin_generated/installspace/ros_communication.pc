@@ -1,0 +1,8 @@
+prefix=/home/philchen/ros_basic/install
+
+Name: ros_communication
+Description: Description of ros_communication
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

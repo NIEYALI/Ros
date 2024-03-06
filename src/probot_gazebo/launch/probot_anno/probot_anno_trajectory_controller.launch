@@ -1,0 +1,9 @@
+<launch>
+	<!-- 加载轨迹控制的yaml文件 -->
+    <rosparam file="$(find probot_gazebo)/config/probot_anno_trajectory_control.yaml" command="load"/>
+	
+	<!-- 创建一个控制器，对probot_anno机械臂进行控制-->
+    <node name="arm_controller_spawner" pkg="controller_manager" type="spawner" respawn="false"
+          output="screen" ns="/probot_anno" args="arm_joint_controller"/>
+
+</launch>

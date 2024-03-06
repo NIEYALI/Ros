@@ -1,0 +1,3 @@
+Symlinking /home/philchen/ros_basic/devel/lib/pkgconfig/ur3_gazebo.pc
+Symlinking /home/philchen/ros_basic/devel/share/ur3_gazebo/cmake/ur3_gazeboConfig-version.cmake
+Symlinking /home/philchen/ros_basic/devel/share/ur3_gazebo/cmake/ur3_gazeboConfig.cmake

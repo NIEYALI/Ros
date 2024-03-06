@@ -1,0 +1,4 @@
+[ 25%] Built target turtle_client
+[ 62%] Built target talker
+[ 75%] Built target turtle_server
+[100%] Built target listener

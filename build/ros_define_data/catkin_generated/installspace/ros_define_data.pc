@@ -1,0 +1,8 @@
+prefix=/home/philchen/ros_basic/install
+
+Name: ros_define_data
+Description: Description of ros_define_data
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

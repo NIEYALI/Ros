@@ -1,0 +1,8 @@
+prefix=/home/philchen/ros_basic/devel/.private/UR3
+
+Name: UR3
+Description: Description of UR3
+Version: 1.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

@@ -1,0 +1,5 @@
+ur3
+/home/philchen/ros_basic/devel/.private/UR3/cmake.lock /home/philchen/ros_basic/devel/./cmake.lock
+/home/philchen/ros_basic/devel/.private/UR3/lib/pkgconfig/UR3.pc /home/philchen/ros_basic/devel/lib/pkgconfig/UR3.pc
+/home/philchen/ros_basic/devel/.private/UR3/share/UR3/cmake/UR3Config-version.cmake /home/philchen/ros_basic/devel/share/UR3/cmake/UR3Config-version.cmake
+/home/philchen/ros_basic/devel/.private/UR3/share/UR3/cmake/UR3Config.cmake /home/philchen/ros_basic/devel/share/UR3/cmake/UR3Config.cmake
